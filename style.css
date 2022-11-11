@@ -110,7 +110,7 @@ iframe{
         height: 830px;
     }
 
-    @media (max-width: 1078px){
+    @media (max-width: 778px){
         section{
             flex-direction: column;
             padding-top: 100px;
